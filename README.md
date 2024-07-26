@@ -7,11 +7,11 @@
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
 
-## 🌐 Overview
+## 🌐Overview
 
 This project presents a comprehensive analysis of Netflix's content landscape through interactive data visualizations. By exploring various aspects such as global distribution, genre preferences, ratings, and content growth over time, we gain valuable insights into Netflix's content strategy and its appeal to a diverse, worldwide audience.
 
-## Key Insights
+## 🔍Key Insights
 
 1. **Global Reach** 🗺️: 
    - The world map visualization highlights Netflix's extensive international presence.
@@ -42,11 +42,11 @@ This project presents a comprehensive analysis of Netflix's content landscape th
 4. **Top 10 Genres Bar Chart**: Highlights the most popular content categories.
 5. **Yearly Content Growth Area Chart**: Demonstrates the expansion of Netflix's library over time.
 
-## 📊 Data Source
+## 📊Data Source
 
 The data for this analysis was sourced from Kaggle, providing a comprehensive dataset of Netflix's content library.
 
-## 🛠️ Tools Used
+## 🛠️Tools Used
 
 - **Tableau**: For creating interactive and insightful data visualizations.
 - **Kaggle**: Data source for Netflix content information.
