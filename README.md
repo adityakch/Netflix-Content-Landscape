@@ -11,7 +11,7 @@
 
 This project presents a comprehensive analysis of Netflix's content landscape through interactive data visualizations. By exploring various aspects such as global distribution, genre preferences, ratings, and content growth over time, we gain valuable insights into Netflix's content strategy and its appeal to a diverse, worldwide audience.
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Global Reach** 🗺️: 
    - The world map visualization highlights Netflix's extensive international presence.
