@@ -34,7 +34,7 @@ This project presents a comprehensive analysis of Netflix's content landscape th
    - The visualization shows exponential growth in content from 2010 to 2021.
    - Recent years have seen a significant increase in both movies and TV shows, reflecting Netflix's aggressive content acquisition and production strategy.
 
-## 🖼️ Visualization Components
+## 🖼Visualization Components
 
 1. **World Map**: Displays the distribution of Netflix content across countries.
 2. **Ratings Bar Chart**: Shows the frequency of different content ratings.
